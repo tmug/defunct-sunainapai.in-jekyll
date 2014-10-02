@@ -21,7 +21,7 @@ body {
 
 #home {
     //background: yellow;
-    width: 30%; 
+    width: 30%;
     text-align: center;
 }
 
@@ -50,7 +50,7 @@ body {
 #navigation a {
     //background: red;
 }
-        
+
 #banner {
     height: 384px;
 }
@@ -62,7 +62,7 @@ body {
 
 #bio {
     //background: green;
-    width: 30%; 
+    width: 30%;
     display: inline-block;
     text-align: left;
 }
@@ -135,7 +135,25 @@ a:link, a:visited {
     text-decoration: none
 }
 
+#home a:link, #home a:visited, #navigation a:link, #navigation a:visited
+{
+    color: #f5deb3; //wheat
+}
+
+#posts a:link, #posts a:visited {
+    color: #a1804a;
+}
+
 a:hover, a:active {
     //color: #ffffff;
     text-decoration: underline
+}
+
+#home a:hover, #home a:active, #navigation a:hover, #navigation a:active
+{
+    color: #fafad2; //lightgoldenrodyellow
+}
+
+#posts a:hover, #posts a:active {
+    color: #deb887; //burlywood
 }

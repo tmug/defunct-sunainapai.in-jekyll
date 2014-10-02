@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8 />
+    <title> {% if page.title %} {{ page.title }} | {% endif %} Sunaina
+    Pai's site</title>
+    <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+<div id="home">
+    <a href="/">Sunaina Pai</a>
+</div><!--
+--><div id="navigation">
+    <ul>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/notes/">Notes</a></li>
+    </ul>
+</div>
+
+<div id="banner">
+    <img src="/img/banner-image.jpg" alt="Banner Image">
+</div>
+
+<div id="bio">
+    <img src="/img/bio-image.jpg" alt="Bio Image">
+    <div class="center">
+        <h3>Sunaina Pai</h3>
+        <p>I am awesome, I am awesome, I am awesome, I am awesome</p>
+        <ul>
+            <li><a href="http://facebook.com/sunainasonu">Facebook</a></li>
+            <li><a href="http://github.com/sunainapai">Github</a></li>
+        </ul>
+    </div><!-- /.center -->
+</div><!--
+-->{{ content }}
+
+<div id="footer">
+    <p>&copy; Sunaina Pai 2014 | All Rights Reserved.</p>
+</div> 
+    
+</body>
+</html>

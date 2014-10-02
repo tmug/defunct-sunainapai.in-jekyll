@@ -1,3 +1,7 @@
+# site wide configuration
+
+url: http://sunainapai.in
+
 # Jekyll configuration
 
 permalink: /:title 

@@ -95,6 +95,11 @@ code, pre {
     vertical-align: top;
 }
 
+#posts h3 {
+    padding-bottom:0.5em;
+    border-bottom:1px solid #deb887;
+}
+
 .article-wrap {
    //background: lightblue;
    width: 75%;

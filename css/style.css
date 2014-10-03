@@ -136,11 +136,11 @@ code, pre {
 }
 
 #bio a {
-    // text-decoration: none;
+    //text-decoration: none;
 }
 
 #footer {
-    // background: lightpink;
+    //background: lightpink;
     text-align: center;
 }
 
@@ -151,7 +151,7 @@ a:link, a:visited {
 
 #home a:link, #home a:visited, #navigation a:link, #navigation a:visited
 {
-    color: #f5deb3; //wheat
+    color: #f5deb3; /*wheat*/
 }
 
 #posts a:link, #posts a:visited {
@@ -165,11 +165,11 @@ a:hover, a:active {
 
 #home a:hover, #home a:active, #navigation a:hover, #navigation a:active
 {
-    color: #fafad2; //lightgoldenrodyellow
+    color: #fafad2; /*lightgoldenrodyellow*/
 }
 
 #posts a:hover, #posts a:active {
-    color: #deb887; //burlywood
+    color: #deb887; /*burlywood*/
 }
 
 .largeimage {

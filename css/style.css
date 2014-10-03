@@ -165,6 +165,10 @@ a:link, a:visited {
     color: #a1804a;
 }
 
+#post a:link, #post a:visited {
+    color: #4169E1; /*royalblue*/
+}
+
 a:hover, a:active {
     //color: #ffffff;
     text-decoration: underline

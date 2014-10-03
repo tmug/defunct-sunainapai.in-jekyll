@@ -93,6 +93,7 @@ code, pre {
     width: 70%;
     display: inline-block;
     vertical-align: top;
+    padding-top: 1em;
 }
 
 #posts h3 {
@@ -128,6 +129,7 @@ code, pre {
 #bio p {
     //background: white;
     font-style: italic;
+    font-size: 0.9em;
 }
 
 #bio ul {

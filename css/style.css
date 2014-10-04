@@ -79,6 +79,7 @@ code, pre {
     width: 30%;
     display: inline-block;
     text-align: left;
+    float:left;
 }
 
 #bio img {
@@ -94,6 +95,7 @@ code, pre {
     display: inline-block;
     vertical-align: top;
     padding-top: 1em;
+    float: right;
 }
 
 #posts h3 {
@@ -149,6 +151,8 @@ code, pre {
 #footer {
     //background: lightpink;
     text-align: center;
+    width: 100%;
+    display: inline-block;
 }
 
 a:link, a:visited {

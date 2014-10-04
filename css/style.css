@@ -22,7 +22,6 @@ pre {
 }
 
 #home, #navigation {
-    //background: #a58e63;
     background: #a1804a;
     text-transform: uppercase;
     height: 4em;
@@ -33,22 +32,15 @@ pre {
 }
 
 #home {
-    //background: yellow;
     width: 30%;
     text-align: center;
 }
 
 #navigation {
-    //background: cyan;
     width: 70%;
 }
 
-#home a {
-    //background: red;
-}
-
 #navigation ul {
-    //background: magenta;
     list-style-type: none;
     padding-left: 0px;
     margin: 0;
@@ -56,13 +48,8 @@ pre {
 }
 
 #navigation li {
-    //background: orange;
     display: inline-block;
     padding-right: 1em;
-}
-
-#navigation a {
-    //background: red;
 }
 
 #banner {
@@ -75,7 +62,6 @@ pre {
 }
 
 #bio {
-    //background: green;
     text-align: center;
     margin: 1em; 
 }
@@ -88,7 +74,6 @@ pre {
 }
 
 #content, #posts, #post {
-    //background: yellow;
     margin: 1em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid #deb887;
@@ -99,33 +84,21 @@ pre {
     border-bottom: 1px solid #deb887;
 }
 
-#bio h3 {
-    //background: white;
-}
-
 #bio p {
-    //background: white;
     font-style: italic;
     font-size: 0.9em;
 }
 
 #bio ul {
-    //background: magenta;
     list-style-type: none;
     padding-left: 0px;
 }
 
 #bio li {
-    //background: orange;
     display: inline-block;
 }
 
-#bio a {
-    //text-decoration: none;
-}
-
 #footer {
-    //background: lightpink;
     text-align: center;
     width: 100%;
     display: inline-block;
@@ -150,7 +123,6 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    //color: #ffffff;
     text-decoration: underline
 }
 
@@ -203,7 +175,6 @@ a:hover, a:active {
     }
 
     .article-wrap {
-       //background: lightblue;
        width: 75%;
        margin-left: 0px;
        margin-right: auto;

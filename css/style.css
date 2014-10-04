@@ -6,12 +6,6 @@ body {
     line-height: 1.5em;
     margin-left: auto;
     margin-right: auto;
-    min-width: 40em;
-    //width: 75%;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'PT Sans Narrow', sans-serif;
 }
 
 code, pre {
@@ -19,8 +13,12 @@ code, pre {
     padding: 0px, 1px;
     border: 1px none;
     border-radius: 3px;
-    font-family: monospace, sans-serif;
+    font-family: monospace;
     font-size: 0.9em;
+}
+
+pre {
+    overflow: auto;
 }
 
 #home, #navigation {
@@ -31,6 +29,7 @@ code, pre {
     display: inline-block;
     line-height: 4em;
     font-weight: bold;
+    vertical-align: top
 }
 
 #home {
@@ -53,6 +52,7 @@ code, pre {
     list-style-type: none;
     padding-left: 0px;
     margin: 0;
+    text-align: center;
 }
 
 #navigation li {
@@ -66,7 +66,7 @@ code, pre {
 }
 
 #banner {
-    height: 384px;
+    height: 240px;
 }
 
 #banner img {
@@ -76,14 +76,12 @@ code, pre {
 
 #bio {
     //background: green;
-    width: 30%;
-    display: inline-block;
-    text-align: left;
-    float:left;
+    text-align: center;
+    margin: 1em; 
 }
 
 #bio img {
-    padding-top: 1em;
+    padding-top: 0.5em;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -91,37 +89,14 @@ code, pre {
 
 #content, #posts, #post {
     //background: yellow;
-    width: 70%;
-    display: inline-block;
-    vertical-align: top;
-    padding-top: 1em;
-    float: right;
+    margin: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #deb887;
 }
 
 #posts h3 {
-    padding-bottom:0.5em;
-    border-bottom:1px solid #deb887;
-}
-
-.article-wrap {
-   //background: lightblue;
-   width: 75%;
-   margin-left: 0px;
-   margin-right: auto;
-}
-
-/*
-#bio h3, #bio p, #bio ul {
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-}
-*/
-
-.center {
-    width: 150px;
-    margin-left: auto;
-    margin-right: auto;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #deb887;
 }
 
 #bio h3 {
@@ -142,6 +117,7 @@ code, pre {
 
 #bio li {
     //background: orange;
+    display: inline-block;
 }
 
 #bio a {
@@ -190,4 +166,61 @@ a:hover, a:active {
 .largeimage {
     height: 100%;
     width: 100%;
+}
+
+/* Style for computer displays */
+@media screen and (min-width: 40em) {
+
+    body {
+        min-width: 40em;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'PT Sans Narrow', sans-serif;
+    }
+
+    #banner {
+        height: 384px;
+    }
+    
+    #bio {
+        width: 30%;
+        display: inline-block;
+        text-align: left;
+        float: left;
+        margin: 0;
+    }
+
+    #content, #posts, #post {
+        width: 70%;
+        display: inline-block;
+        vertical-align: top;
+        padding-top: 1em;
+        float: right;
+        margin: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+    }
+
+    .article-wrap {
+       //background: lightblue;
+       width: 75%;
+       margin-left: 0px;
+       margin-right: auto;
+    }
+
+    .center {
+        width: 150px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #bio li {
+         display: block;
+    }
+
+    #navigation ul {
+         text-align: left;
+    }
+
 }

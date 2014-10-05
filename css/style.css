@@ -9,12 +9,12 @@ body {
 }
 
 code, pre {
-    background: #deb887; /*burlywood*/
-    padding: 0px, 1px;
-    border: 1px none;
+    background: #fff8dc; /* cornsilk */
+    padding: 0.1em 0.3em;
     border-radius: 3px;
-    font-family: monospace;
-    font-size: 0.9em;
+    font-family: monospace,monospace; /* To make 1em = 16px in Chrome,
+    Firefox and Safari */
+    font-size: 1em; /* To make 1em = 16px in IE */
 }
 
 pre {
@@ -64,6 +64,8 @@ pre {
 #bio {
     text-align: center;
     margin: 1em; 
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #deb887;
 }
 
 #bio img {
@@ -77,6 +79,14 @@ pre {
     margin: 1em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid #deb887;
+    word-wrap: break-word; /* To prevent long text from extending out of
+    the box and breaking the layout. break-word allows unbreakable words
+    to be broken */
+}
+
+#comments {
+    margin: 1em;
+    text-align: center;
 }
 
 #posts h3 {
@@ -111,15 +121,11 @@ a:link, a:visited {
 
 #home a:link, #home a:visited, #navigation a:link, #navigation a:visited
 {
-    color: #f5deb3; /*wheat*/
+    color: #f5deb3; /* wheat */
 }
 
-#posts a:link, #posts a:visited {
+#posts a:link, #posts a:visited, #post a:link, #post a:visited {
     color: #a1804a;
-}
-
-#post a:link, #post a:visited {
-    color: #4169E1; /*royalblue*/
 }
 
 a:hover, a:active {
@@ -128,11 +134,11 @@ a:hover, a:active {
 
 #home a:hover, #home a:active, #navigation a:hover, #navigation a:active
 {
-    color: #fafad2; /*lightgoldenrodyellow*/
+    color: #fafad2; /* lightgoldenrodyellow */
 }
 
-#posts a:hover, #posts a:active {
-    color: #deb887; /*burlywood*/
+#posts a:hover, #posts a:active, #post a:hover, #post a:active {
+    color: #b1905a;
 }
 
 .largeimage {
@@ -161,6 +167,8 @@ a:hover, a:active {
         text-align: left;
         float: left;
         margin: 0;
+        padding-bottom: 0;
+        border-bottom: none;
     }
 
     #content, #posts, #post {
@@ -172,6 +180,15 @@ a:hover, a:active {
         margin: 0;
         padding-bottom: 0;
         border-bottom: none;
+    }
+
+    #comments {
+        width: 70%;
+        display: inline-block;
+        float: right;
+        text-align: left;
+        margin: 0;
+        padding-top: 1em;
     }
 
     .article-wrap {

@@ -8,17 +8,19 @@ body {
     margin-right: auto;
 }
 
-code, pre {
-    background: #fff8dc; /* cornsilk */
-    padding: 0.1em 0.3em;
-    border-radius: 3px;
+pre, code {
     font-family: monospace,monospace; /* To make 1em = 16px in Chrome,
     Firefox and Safari */
     font-size: 1em; /* To make 1em = 16px in IE */
+    color: #800000; /* maroon */
 }
 
 pre {
-    overflow: auto;
+    background: #deb887; /* burlywood */
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    border: 1px solid #be9867; /* slighty darker than burlywood */
+    overflow: auto; /* to add a scroll bar when there is long code */
 }
 
 #home, #navigation {
@@ -91,7 +93,7 @@ pre {
 
 #posts h3 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #deb887;
+    border-bottom: 1px solid #deb887; /* burlywood */
 }
 
 #bio p {
@@ -124,8 +126,8 @@ a:link, a:visited {
     color: #f5deb3; /* wheat */
 }
 
-#posts a:link, #posts a:visited, #post a:link, #post a:visited {
-    color: #a1804a;
+#posts a:link, #posts a:visited {
+    color: #a1804a; /* sand color from banner */
 }
 
 a:hover, a:active {
@@ -137,8 +139,8 @@ a:hover, a:active {
     color: #fafad2; /* lightgoldenrodyellow */
 }
 
-#posts a:hover, #posts a:active, #post a:hover, #post a:active {
-    color: #b1905a;
+#posts a:hover, #posts a:active {
+    color: #b1905a; /* slightly lighter than sand color from banner*/
 }
 
 .largeimage {

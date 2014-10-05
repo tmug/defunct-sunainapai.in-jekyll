@@ -34,12 +34,12 @@ pre {
 }
 
 #home {
-    width: 30%;
+    width: 25%;
     text-align: center;
 }
 
 #navigation {
-    width: 70%;
+    width: 75%;
 }
 
 #navigation ul {
@@ -69,6 +69,14 @@ pre {
     padding-bottom: 0.5em;
     border-bottom: 1px solid #deb887;
 }
+
+#facebook-like {
+    text-align: center;
+    margin: 1em; 
+    padding-bottom: 1em;
+    border-bottom: 1px solid #deb887;
+}
+
 
 #bio img {
     padding-top: 0.5em;
@@ -164,7 +172,7 @@ a:hover, a:active {
     }
     
     #bio {
-        width: 30%;
+        width: 25%;
         display: inline-block;
         text-align: left;
         float: left;
@@ -173,28 +181,43 @@ a:hover, a:active {
         border-bottom: none;
     }
 
+    #facebook-like {
+        width: 25%;
+        display: inline-block;
+        float: right;
+        margin: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+        padding-top: 1em;
+        overflow: hidden;
+    }
+
     #content, #posts, #post {
-        width: 70%;
+        width: 50%;
         display: inline-block;
         vertical-align: top;
         padding-top: 1em;
-        float: right;
         margin: 0;
         padding-bottom: 0;
         border-bottom: none;
     }
 
-    #comments {
-        width: 70%;
-        display: inline-block;
-        float: right;
-        text-align: left;
-        margin: 0;
+    #bio img {
         padding-top: 1em;
     }
 
+    #comments {
+        width: 50%;
+        text-align: left;
+        margin: 0;
+        padding-top: 1em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     .article-wrap {
-       width: 75%;
+       width: 96%;
        margin-left: 0px;
        margin-right: auto;
     }

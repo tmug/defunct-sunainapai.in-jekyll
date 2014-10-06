@@ -4,4 +4,4 @@ url: http://sunainapai.in
 
 # Jekyll configuration
 
-permalink: /:title 
+permalink: /blog/:title

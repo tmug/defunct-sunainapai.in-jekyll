@@ -1,6 +1,5 @@
 body {
     color: #333333;
-    background: #f5deb3;
     margin: 0;
     font-family: helvetica, arial, sans-serif;
     line-height: 1.5em;
@@ -12,19 +11,18 @@ pre, code {
     font-family: monospace,monospace; /* To make 1em = 16px in Chrome,
     Firefox and Safari */
     font-size: 1em; /* To make 1em = 16px in IE */
-    color: #800000; /* maroon */
+    color: #000080;
 }
 
 pre {
-    background: #deb887; /* burlywood */
+    background: #eeeeee;
     padding: 0.1em 0.3em;
     border-radius: 3px;
-    border: 1px solid #be9867; /* slighty darker than burlywood */
+    border: 1px solid #cccccc;
     overflow: auto; /* to add a scroll bar when there is long code */
 }
 
 #home, #navigation {
-    background: #a1804a;
     text-transform: uppercase;
     height: 4em;
     display: inline-block;
@@ -67,14 +65,14 @@ pre {
     text-align: center;
     margin: 1em; 
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #deb887;
+    border-bottom: 1px solid #cccccc;
 }
 
 #facebook-like {
     text-align: center;
     margin: 1em; 
     padding-bottom: 1em;
-    border-bottom: 1px solid #deb887;
+    border-bottom: 1px solid #cccccc;
 }
 
 
@@ -88,7 +86,7 @@ pre {
 #content, #posts, #post {
     margin: 1em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #deb887;
+    border-bottom: 1px solid #cccccc;
     word-wrap: break-word; /* To prevent long text from extending out of
     the box and breaking the layout. break-word allows unbreakable words
     to be broken */
@@ -101,7 +99,7 @@ pre {
 
 #posts h3 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #deb887; /* burlywood */
+    border-bottom: 1px solid #cccccc;
 }
 
 #bio p {
@@ -129,26 +127,18 @@ a:link, a:visited {
     text-decoration: none
 }
 
-#home a:link, #home a:visited, #navigation a:link, #navigation a:visited
-{
-    color: #f5deb3; /* wheat */
-}
-
-#posts a:link, #posts a:visited {
-    color: #a1804a; /* sand color from banner */
+#home a:link, #home a:visited, #navigation a:link, #navigation
+a:visited, #posts a:link, #posts a:visited {
+    color: #333333;
 }
 
 a:hover, a:active {
     text-decoration: underline
 }
 
-#home a:hover, #home a:active, #navigation a:hover, #navigation a:active
-{
-    color: #fafad2; /* lightgoldenrodyellow */
-}
-
-#posts a:hover, #posts a:active {
-    color: #b1905a; /* slightly lighter than sand color from banner*/
+#home a:hover, #home a:active, #navigation a:hover, #navigation
+a:active, #posts a:hover, #posts a:active {
+    color: #777777;
 }
 
 .largeimage {

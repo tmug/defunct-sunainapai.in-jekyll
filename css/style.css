@@ -143,8 +143,23 @@ a:active, #posts a:hover, #posts a:active {
 }
 
 .largeimage {
-    height: 100%;
     width: 100%;
+}
+
+figure {
+    padding-bottom: 1em;
+}
+
+figcaption {
+    font-size: 0.8em;
+    text-align: center;
+}
+    
+
+blockquote {
+    font-style: italic;
+    padding-left: 1em;
+    border-left: 5px solid;
 }
 
 /* Style for computer displays */

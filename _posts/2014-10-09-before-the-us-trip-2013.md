@@ -71,7 +71,7 @@ looked beautiful and we clicked some pictures.
     <a href="{{site.url}}/img/before-the-us-trip-2013/dubai-airport.jpg"
        target="_blank"><img
             class="largeimage"
-            src="{{site.url}}/img/before-the-us-trip-2013/dubai-airport.jpg"
+            src="{{site.url}}/img/before-the-us-trip-2013/dubai-airport-small.jpg"
             alt="Image of Dubai Airport"></a>
     <figcaption>At Dubai International Airport</figcaption>
 </figure>
@@ -79,3 +79,12 @@ looked beautiful and we clicked some pictures.
 With that we boarded the plane to the US. I promised Dubai that I would
 visit it in the coming years, spend more time and not just use it for
 transit. It was a long flight to the the US. I slept most of it.
+
+<figure>
+    <a href="{{site.url}}/img/before-the-us-trip-2013/over-the-north-atlantic-ocean.jpg"
+       target="_blank"><img
+            class="largeimage"
+            src="{{site.url}}/img/before-the-us-trip-2013/over-the-north-atlantic-ocean-small.jpg"
+            alt="Image over the North Atlantic Ocean"></a>
+    <figcaption>Over the North Atlantic Ocean</figcaption>
+</figure>

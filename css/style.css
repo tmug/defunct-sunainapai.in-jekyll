@@ -148,6 +148,8 @@ a:active, #posts a:hover, #posts a:active {
 
 figure {
     padding-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 figcaption {

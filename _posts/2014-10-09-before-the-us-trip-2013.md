@@ -76,9 +76,9 @@ looked beautiful and we clicked some pictures.
     <figcaption>At Dubai International Airport</figcaption>
 </figure>
 
-With that we boarded the plane to the US. I promised Dubai that I would
-visit it in the coming years, spend more time and not just use it for
-transit. It was a long flight to the the US. I slept most of it.
+I promised Dubai that I would visit it in the coming years, spend more
+time and not just use it for transit. With that we boarded the plane to
+the US.
 
 <figure>
     <a href="{{site.url}}/img/before-the-us-trip-2013/over-the-north-atlantic-ocean.jpg"
@@ -88,3 +88,7 @@ transit. It was a long flight to the the US. I slept most of it.
             alt="Image over the North Atlantic Ocean"></a>
     <figcaption>Over the North Atlantic Ocean</figcaption>
 </figure>
+
+It was a long journey to the US. I removed the armrest between my seat
+and the adjacent one, helped myself to the makeshift bed and slept most
+of the flight over the North Atlantic Ocean.

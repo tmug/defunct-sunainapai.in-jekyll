@@ -30,7 +30,7 @@ MacVim. These are the steps I followed.
     </figure>
 
 * In case you still want to use the caps lock feature, you may want to
-  map escape key to function as caps lock. To do so, change keycode of
+  map the escape key to function as caps lock. To do so, change keycode of
   the escape key to *57* in the 'Other keys' section. This effectively
   swaps the caps lock key and the escape key.
   

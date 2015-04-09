@@ -123,6 +123,12 @@ pre {
     display: inline-block;
 }
 
+.post-info {
+    font-size: 0.8em;
+    border-top: 1px solid #cccccc;
+    padding-top: 0.5em;
+}
+
 a:link, a:visited {
     color: #0000e0;
     text-decoration: none

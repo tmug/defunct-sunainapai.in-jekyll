@@ -5,3 +5,7 @@ url: http://sunainapai.in
 # Jekyll configuration
 
 permalink: /blog/:title/
+
+# Site owner
+owner:
+ name: Sunaina Pai

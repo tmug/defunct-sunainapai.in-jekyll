@@ -162,7 +162,15 @@ figcaption {
     font-size: 0.8em;
     text-align: center;
 }
-    
+
+figure a {
+    display: inline-block;
+    width: 100%;
+}
+
+figure img {
+    vertical-align: top;
+}
 
 blockquote {
     font-style: italic;

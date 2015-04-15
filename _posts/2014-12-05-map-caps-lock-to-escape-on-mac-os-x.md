@@ -20,11 +20,10 @@ MacVim. These are the steps I followed.
 * Change keycode of the caps lock key to *53* in the 'Change the caps
   lock key' section.
 
-    <figure>
+    <figure id="one-up">
         <a
         href="{{site.url}}/img/map-caps-lock-to-escape-on-mac-os-x/seil-capslock-to-53.png"
            target="_blank"><img
-                class="largeimage"
                 src="{{site.url}}/img/map-caps-lock-to-escape-on-mac-os-x/seil-capslock-to-53.png"
                 alt="Screenshot of changing keycode of caps lock to 53 in Seil"></a>
     </figure>
@@ -34,11 +33,10 @@ MacVim. These are the steps I followed.
   of the escape key to *57* in the 'Other keys' section. This
   effectively swaps the caps lock key and the escape key.
   
-    <figure>
+    <figure id="one-up">
         <a
         href="{{site.url}}/img/map-caps-lock-to-escape-on-mac-os-x/seil-escape-to-57.png"
            target="_blank"><img
-                class="largeimage"
                 src="{{site.url}}/img/map-caps-lock-to-escape-on-mac-os-x/seil-escape-to-57.png"
                 alt="Screenshot of changing keycode of escape to 57 in Seil"></a>
     </figure>

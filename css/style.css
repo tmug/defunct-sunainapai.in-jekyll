@@ -148,10 +148,6 @@ a:active, #posts a:hover, #posts a:active {
     color: #777777;
 }
 
-.largeimage {
-    width: 100%;
-}
-
 figure {
     padding-bottom: 1em;
     margin-left: 0;
@@ -163,12 +159,13 @@ figcaption {
     text-align: center;
 }
 
-figure a {
+#one-up a {
     display: inline-block;
     width: 100%;
 }
 
-figure img {
+#one-up img {
+    width: 100%;
     vertical-align: top;
 }
 

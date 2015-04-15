@@ -22,19 +22,17 @@ I had to go to Chennai for my visa appointment. It was a two day
 process. After the visa was approved, I roamed a tiny bit of Chennai and
 relaxed on the shores of Marina beach.
 
-<figure>
+<figure id="one-up">
     <a href="{{site.url}}/img/before-the-us-trip-2013/cops-on-horses.jpg"
        target="_blank"><img
-            class="largeimage"
             src="{{site.url}}/img/before-the-us-trip-2013/cops-on-horses-small.jpg"
             alt="Image of cops on horses at Marina Beach"></a>
     <figcaption>Cops on horses at Marina beach, Chennai</figcaption>
 </figure>
 
-<figure>
+<figure id="one-up">
     <a href="{{site.url}}/img/before-the-us-trip-2013/venus-and-moon.jpg"
        target="_blank"><img
-            class="largeimage"
             src="{{site.url}}/img/before-the-us-trip-2013/venus-and-moon-small.jpg"
             alt="Image of Venus and Moon captured at Marina Beach"></a>
     <figcaption>The tiny dot is Venus captured at Marina Beach, Chennai;
@@ -58,19 +56,17 @@ start, my further visits to Starbucks have been nice; I love their
 coffee drinks. Caramel Latte is my all time favourite. The airport
 looked beautiful and we clicked some pictures.
 
-<figure>
+<figure id="one-up">
      <a href="{{site.url}}/img/before-the-us-trip-2013/moving-walkway.jpg"
         target="_blank"><img
-            class="largeimage"
             src="{{site.url}}/img/before-the-us-trip-2013/moving-walkway-small.jpg"
             alt="Image of a moving walkway at Dubai Airport"></a>
     <figcaption>A moving walkway at Dubai Airport</figcaption>
 </figure>
 
-<figure>
+<figure id="one-up">
     <a href="{{site.url}}/img/before-the-us-trip-2013/dubai-airport.jpg"
        target="_blank"><img
-            class="largeimage"
             src="{{site.url}}/img/before-the-us-trip-2013/dubai-airport-small.jpg"
             alt="Image of Dubai Airport"></a>
     <figcaption>At Dubai International Airport</figcaption>
@@ -80,10 +76,9 @@ I promised Dubai that I would visit it in the coming years, spend more
 time and not just use it for transit. With that we boarded the plane to
 the US.
 
-<figure>
+<figure id="one-up">
     <a href="{{site.url}}/img/before-the-us-trip-2013/over-the-north-atlantic-ocean.jpg"
        target="_blank"><img
-            class="largeimage"
             src="{{site.url}}/img/before-the-us-trip-2013/over-the-north-atlantic-ocean-small.jpg"
             alt="Image over the North Atlantic Ocean"></a>
     <figcaption>Over the North Atlantic Ocean</figcaption>

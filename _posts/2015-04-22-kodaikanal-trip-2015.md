@@ -28,7 +28,7 @@ mushroom soup known as <i>kalan soup</i> by the locals.
             src="{{site.url}}/img/kodaikanal-trip-2015/upper-lake-view-small.jpg"
             alt="Image of Kodaikanal Lake as seen from the Upper Lake
             View Point"></a><!--
-    --><a href="{{site.url}}/img/pine-forest.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/pine-forest.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/pine-forest-small.jpg"
             alt="Image of Pine Forest"></a><!--
@@ -55,7 +55,7 @@ soon as the clouds clear up.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/moir-point-small.jpg"
             alt="Image of Moir Point"></a><!--
-    --><a href="{{site.url}}/img/guna-caves.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/guna-caves.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/guna-caves-small.jpg"
             alt="Image of Guna Caves"></a><!--
@@ -82,7 +82,7 @@ along the edge of a hill.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/500-year-old-tree-small.jpg"
             alt="Image of 500 year old tree"></a><!--
-    --><a href="{{site.url}}/img/view-from-coakers-walk.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/view-from-coakers-walk.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/view-from-coakers-walk-small.jpg"
             alt="Image of a view from Coaker&rsquo;s Walk"></a>
@@ -105,7 +105,7 @@ at this shop.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/bryant-park-fountain-small.jpg"
             alt="Image of a fountain at Bryant Park"></a><!--
-    --><a href="{{site.url}}/img/sangeeta-tea-corner.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/sangeeta-tea-corner.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/sangeeta-tea-corner-small.jpg"
             alt="Image of Sangeeta Tea Corner"></a><!--
@@ -130,7 +130,7 @@ at Poombarai.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/gundar-falls-stream-small.jpg"
             alt="Image of a stream of water flowing out of Gundar Falls"></a><!--
-    --><a href="{{site.url}}/img/gundar-falls.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/gundar-falls.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/gundar-falls-small.jpg"
             alt="Image of Gundar Falls"></a><!--
@@ -147,7 +147,7 @@ at Poombarai.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/mahalakshmi-temple-small.jpg"
             alt="Image of Mahalakshmi Temple"></a><!--
-    --><a href="{{site.url}}/img/terrace-farming-at-poombarai.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/terrace-farming-at-poombarai.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/terrace-farming-at-poombarai-small.jpg"
             alt="Image of Terrace farming at Poombarai"></a><!--
@@ -172,7 +172,7 @@ trek. &#x1f60a;
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/pambar-falls-1-small.jpg"
             alt="Image of first of the four Pambar Falls"></a><!--
-    --><a href="{{site.url}}/img/pambar-falls-2.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/pambar-falls-2.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/pambar-falls-2-small.jpg"
             alt="Image of second of the four Pambar Falls"></a><!--
@@ -189,7 +189,7 @@ trek. &#x1f60a;
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/pambar-falls-4-small.jpg"
             alt="Image of fourth of the four Pambar Falls"></a><!--
-    --><a href="{{site.url}}/img/lions-cave.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/lions-cave.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/lions-cave-small.jpg"
             alt="Image of Lion&rsquo;s Cave"></a>
@@ -218,11 +218,11 @@ streets we chose a place to dine at and called it a day.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/vattakanal-trek-small.jpg"
             alt="Image of Vattakanal trek"></a><!--
-    --><a href="{{site.url}}/img/view-from-vattakanal-trek.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/view-from-vattakanal-trek.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/view-from-vattakanal-trek-small.jpg"
             alt="Image of a view of the hills and valleys surrounding Vattakanal"></a><!--
-    --><a href="{{site.url}}/img/la-salette-church.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/la-salette-church.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/la-salette-church-small.jpg"
             alt="Image of La Salette Church"></a>
@@ -259,7 +259,7 @@ Nose.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/row-boat-at-kodaikanal-lake-small.jpg"
             alt="Image of row boating in Kodaikanal Lake"></a><!--
-    --><a href="{{site.url}}/img/lotus-at-kodaikanal-lake.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/lotus-at-kodaikanal-lake.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/lotus-at-kodaikanal-lake-small.jpg"
             alt="Image of Lotus in Kodaikanal Lake"></a><!--
@@ -280,7 +280,7 @@ and Fairy Falls. They are almost dry during this time of the year.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/silver-cascade-falls-small.jpg"
             alt="Image of Silver Cascade Falls"></a><!--
-    --><a href="{{site.url}}/img/bear-shola-falls.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/bear-shola-falls.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/bear-shola-falls-small.jpg"
             alt="Image of Bear Shola Falls"></a><!--
@@ -308,7 +308,7 @@ Difference Rock and Echo Rock.
             src="{{site.url}}/img/kodaikanal-trip-2015/stairway-formed-by-roots-small.jpg"
             alt="Image of stairway formed by tree roots at
             Dolphin&rsquo;s Nose trek"></a><!--
-    --><a href="{{site.url}}/img/tall-trees-at-dolphins-nose-trek.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/tall-trees-at-dolphins-nose-trek.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/tall-trees-at-dolphins-nose-trek-small.jpg"
             alt="Image of Dolphin&rsquo;s Nose trek"></a><!--
@@ -327,7 +327,7 @@ Difference Rock and Echo Rock.
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/standing-on-dolphins-nose-small.jpg"
             alt="Image of us standing on top of Dolphin&rsquo;s Nose"></a><!--
-    --><a href="{{site.url}}/img/echo-rock.jpg"
+    --><a href="{{site.url}}/img/kodaikanal-trip-2015/echo-rock.jpg"
        target="_blank"><img
             src="{{site.url}}/img/kodaikanal-trip-2015/echo-rock-small.jpg"
             alt="Image of Echo Rock"></a><!--

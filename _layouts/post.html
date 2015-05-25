@@ -3,11 +3,13 @@ layout: default
 ---
 <div id="post">
     <div class="article-wrap">
-        <h2>{{page.title}}</h2>
+        <h1>{{page.title}}</h1>
         {{ content }}
     </div>
 
     <div class="post-info">
+    <hr>
         <p><strong>{{page.title}}</strong> was published on {{ page.date | date_to_string }} {% if page.modified %} and last modified on {{ page.modified | date: '%Y-%m-%d'| date_to_string }} {% endif %} by <a href="{{site.url}}/">{{ site.owner.name }}</a>.</p>
     </div>
+    <hr>
 </div>{% include _bio.html %}{% include _facebook-like.html %}{% include _disqus.html %}

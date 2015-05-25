@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include _banner.html %}
-<div id="posts">
+<div id="recent-posts">
     <div class="article-wrap">
       <h1><a href="{{ site.url}}/blog/">Recent Posts</a></h1>
         {% for post in site.posts limit:5 %}
@@ -12,4 +12,5 @@ layout: default
         </article>
       {% endfor %}
     </div>
+    <hr>
 </div>{% include _bio.html %}{% include _facebook-like.html %}

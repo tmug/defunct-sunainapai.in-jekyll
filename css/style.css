@@ -66,16 +66,13 @@ pre {
     text-align: center;
     margin: 1em; 
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #cccccc;
 }
 
 #facebook-like {
     text-align: center;
     margin: 1em; 
     padding-bottom: 1em;
-    border-bottom: 1px solid #cccccc;
 }
-
 
 #bio img {
     padding-top: 0.5em;
@@ -84,10 +81,9 @@ pre {
     margin-right: auto;
 }
 
-#content, #posts, #post {
+#content, #posts, #post, #recent-posts {
     margin: 1em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #cccccc;
     word-wrap: break-word; /* To prevent long text from extending out of
     the box and breaking the layout. break-word allows unbreakable words
     to be broken */
@@ -98,9 +94,28 @@ pre {
     text-align: center;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0;
+}
+
+hr {
+    color: #cccccc;
+    background-color: #cccccc;
+    height: 1px;
+    border: none;
+}
+
+#posts h2 {
+    font-size: 1.2em;
+    margin-top: 1em;
+}
+
 #posts h3 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid #cccccc;
+    font-size: 1.5em;
+}
+
+#post h1 {
+    font-size: 1.5em;
 }
 
 #bio p {
@@ -125,7 +140,6 @@ pre {
 
 .post-info {
     font-size: 0.8em;
-    border-top: 1px solid #cccccc;
     padding-top: 0.5em;
 }
 
@@ -135,7 +149,8 @@ a:link, a:visited {
 }
 
 #home a:link, #home a:visited, #navigation a:link, #navigation
-a:visited, #posts a:link, #posts a:visited {
+a:visited, #posts a:link, #posts a:visited, #recent-posts a:link,
+#recent-posts a:visited {
     color: #333333;
 }
 
@@ -144,7 +159,8 @@ a:hover, a:active {
 }
 
 #home a:hover, #home a:active, #navigation a:hover, #navigation
-a:active, #posts a:hover, #posts a:active {
+a:active, #posts a:hover, #posts a:active, #recent-posts a:hover,
+#recent-posts a:active {
     color: #777777;
 }
 
@@ -220,6 +236,21 @@ blockquote {
         font-family: 'PT Sans Narrow', sans-serif;
     }
 
+    hr {
+        height: 0;
+    }
+
+    .article-wrap hr, .post-info hr {
+        color: #cccccc;
+        background-color: #cccccc;
+        height: 1px;
+        border: none;
+    }
+
+    .post-info {
+        padding-top: 0;
+    }
+
     #home {
         width: 25%;
     }
@@ -239,7 +270,6 @@ blockquote {
         float: left;
         margin: 0;
         padding-bottom: 0;
-        border-bottom: none;
     }
 
     #facebook-like {
@@ -248,21 +278,19 @@ blockquote {
         float: right;
         margin: 0;
         padding-bottom: 0;
-        border-bottom: none;
         padding-top: 1em;
         overflow: hidden;
     }
 
-    #content, #posts, #post {
+    #content, #posts, #post, #recent-posts {
         width: 50%;
         display: inline-block;
         vertical-align: top;
         padding-top: 1em;
         margin: 0;
         padding-bottom: 0;
-        border-bottom: none;
     }
-
+    
     #bio img {
         padding-top: 1em;
     }
@@ -296,5 +324,4 @@ blockquote {
     #navigation ul {
          text-align: left;
     }
-
 }

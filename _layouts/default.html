@@ -3,15 +3,15 @@
 <head>
     <meta charset=utf-8 />
     <meta name="viewport" content="width=device-width">
-    <title> {% if page.title %} {{ page.title }} | {% endif %} Sunaina
-    Pai</title>
+    <title> {% if page.title %} {{ page.title }} | {% endif %}
+    {{ site.owner.name }}</title>
     <link rel="icon" href="{{site.url}}/favicon.ico"/>
     <link rel="stylesheet" href="{{site.url}}/css/style.css"/>
 </head>
 <body>
 
 <div id="home">
-    <a href="{{site.url}}/">Sunaina Pai</a>
+    <a href="{{site.url}}/">{{ site.owner.name }}</a>
 </div><!--
 --><div id="navigation">
     <ul>
@@ -21,7 +21,7 @@
 
 {{ content }}
 <div id="footer">
-    <p>&copy; 2014&ndash;2015 Sunaina Pai</p>
+    <p>&copy; 2014&ndash;2015 {{ site.owner.name }}</p>
 </div> 
     
 </body>

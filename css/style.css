@@ -94,6 +94,18 @@ pre {
     text-align: center;
 }
 
+#related-posts {
+    margin: 1em;
+}
+
+#related-posts h3 {
+    font-size: 1.5em;
+}
+
+#related-posts h4 {
+    font-size: 1.2em;
+}
+
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0;
 }
@@ -150,7 +162,7 @@ a:link, a:visited {
 
 #home a:link, #home a:visited, #navigation a:link, #navigation
 a:visited, #posts a:link, #posts a:visited, #recent-posts a:link,
-#recent-posts a:visited {
+#recent-posts a:visited, #related-posts a:link, #related-posts a:visited {
     color: #333333;
 }
 
@@ -160,7 +172,7 @@ a:hover, a:active {
 
 #home a:hover, #home a:active, #navigation a:hover, #navigation
 a:active, #posts a:hover, #posts a:active, #recent-posts a:hover,
-#recent-posts a:active {
+#recent-posts a:active, #related-posts a:active, #related-posts a:hover {
     color: #777777;
 }
 
@@ -296,6 +308,16 @@ blockquote {
     }
 
     #comments {
+        width: 50%;
+        text-align: left;
+        margin: 0;
+        padding-top: 1em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+     #related-posts {
         width: 50%;
         text-align: left;
         margin: 0;

@@ -12,17 +12,22 @@ layout: default
         <p><strong>{{page.title}}</strong> was published on {{ page.date | date_to_string }} {% if page.modified %} and last modified on {{ page.modified | date: '%Y-%m-%d'| date_to_string }} {% endif %} by <a href="{{ site.url }}/about/">{{ site.owner.name }}</a>.</p>
     </div>
     <hr>
-</div>{% include _bio.html %}{% include _facebook-like.html %}{% include _disqus.html %}
-<div id="related-posts">
-    {% if site.related_posts.size > 0 %}
-    <div class="article-wrap">
-        <h3>You might also enjoy</h3>
-        <ul>
-        {% for post in site.related_posts limit:3 %}
-          <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-        {% endfor %}
-        </ul>
-        <h4>(<a href="{{ site.url }}/blog/">View all posts</a>)</h4>
+
+    {% include _disqus.html %}
+
+    <div id="related-posts">
+        {% if site.related_posts.size > 0 %}
+        <div class="article-wrap">
+            <h3>You might also enjoy</h3>
+            <ul>
+            {% for post in site.related_posts limit:3 %}
+              <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
+            <h4>(<a href="{{ site.url }}/blog/">View all posts</a>)</h4>
+        </div>
+        {% endif %}
     </div>
-    {% endif %}
-</div>
+    <hr>
+</div>{% include _bio.html %}{% include _facebook-like.html %}
+

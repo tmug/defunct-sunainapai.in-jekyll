@@ -65,17 +65,14 @@ pre {
 #bio {
     text-align: center;
     margin: 1em; 
-    padding-bottom: 0.5em;
 }
 
 #facebook-like {
     text-align: center;
     margin: 1em; 
-    padding-bottom: 1em;
 }
 
 #bio img {
-    padding-top: 0.5em;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -83,7 +80,6 @@ pre {
 
 #content, #posts, #post, #recent-posts {
     margin: 1em;
-    padding-bottom: 0.5em;
     word-wrap: break-word; /* To prevent long text from extending out of
     the box and breaking the layout. break-word allows unbreakable words
     to be broken */
@@ -152,7 +148,6 @@ hr {
 
 .post-info {
     font-size: 0.8em;
-    padding-top: 0.5em;
 }
 
 a:link, a:visited {
@@ -259,10 +254,6 @@ blockquote {
         border: none;
     }
 
-    .post-info {
-        padding-top: 0;
-    }
-
     #home {
         width: 25%;
     }
@@ -281,7 +272,6 @@ blockquote {
         text-align: left;
         float: left;
         margin: 0;
-        padding-bottom: 0;
     }
 
     #facebook-like {
@@ -289,7 +279,6 @@ blockquote {
         display: inline-block;
         float: right;
         margin: 0;
-        padding-bottom: 0;
         padding-top: 1em;
         overflow: hidden;
     }
@@ -298,19 +287,16 @@ blockquote {
         width: 50%;
         display: inline-block;
         vertical-align: top;
-        padding-top: 1em;
         margin: 0;
-        padding-bottom: 0;
     }
-    
+
     #bio img {
         padding-top: 1em;
     }
-
+    
     #comments {
         text-align: left;
         margin: 0;
-        padding-top: 1em;
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -318,7 +304,6 @@ blockquote {
 
     #related-posts {
         margin: 0;
-        padding-top: 1em;
         display: block;
         margin-left: auto;
         margin-right: auto;

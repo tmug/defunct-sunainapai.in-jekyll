@@ -242,8 +242,8 @@ Pondicherry was part of French India.
 
 After a few hours at Pondicherry Beach and dinner at Le Club, we took a
 night bus back to Bangalore. Pondicherry makes a perfect getaway from
-Bangalore for a long weekend. We look forward to visit Pondicherry again
-sometime.
+Bangalore for a long weekend. We look forward to visiting Pondicherry
+again sometime.
 
 <figure id="one-up">
     <a href="{{site.url}}/img/pondicherry-trip-2014/pondicherry-beach.jpg"

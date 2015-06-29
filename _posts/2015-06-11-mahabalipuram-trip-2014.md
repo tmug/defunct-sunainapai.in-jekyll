@@ -228,7 +228,7 @@ fried calamari rings. Chilli cheese toast or mushroom pancake at Silver
 Moon Cafe would make a good breakfast.
 
 We left Mahabalipuram with good memories and excitement to explore
-Pondicherry.
+[Pondicherry]({{site.url}}/blog/pondicherry-trip-2014).
 
 <figure id="one-up">
     <a href="{{site.url}}/img/mahabalipuram-trip-2014/leaving-mahabalipuram.jpg"

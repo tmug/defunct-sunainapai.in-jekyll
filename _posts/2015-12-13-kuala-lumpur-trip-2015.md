@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kuala Lumpur trip 2015"
+modified: 2015-12-22
 ---
 
 In July 2015, we went on a trip to Malaysia for 10 days. The plan was to
@@ -312,9 +313,14 @@ mesmerizing.
     KLCC</figcaption>
 </figure>
 
-We then headed to Pavilion Mall and then to Petaling street of China
-Town. With this our stay at Kuala Lumpur was coming to an end. Next
-morning, we left to Penang with a wish to visit Kuala Lumpur again
+We then headed to Pavilion Mall and then to Jalan Alor. There was live
+music at most of the open-air restaurants in Jalan Alor. We walked along
+the street to reach a vendor selling coconut ice cream. The ice cream is
+made of coconut milk. We had the ice cream with minimal toppings. The
+flavour reminded me of eating grated coconut with sugar in my childhood
+days. After spending some time here, we walked to Petaling street of
+China Town. With this our stay at Kuala Lumpur was coming to an end.
+Next morning, we left to Penang with a wish to visit Kuala Lumpur again
 sometime.
 
 <figure id="one-up">

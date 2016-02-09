@@ -3,15 +3,15 @@ layout: post
 title: "Penang Island trip 2015"
 ---
 
-After spending 3 nights at [Kuala Lumpur][KL], we headed to Penang
-Island *(Pulau Pinang)*. We stayed at *Batu Ferringhi,* which is about
-an hour drive from the airport by taxi. There are many beach resorts in
-Batu Ferringhi and we had booked one such resort.
+In July 2015, [after spending 3 nights at Kuala Lumpur][KL], we headed
+to Penang Island *(Pulau Pinang)*. We stayed at *Batu Ferringhi,* which
+is about an hour drive from the airport by taxi. There are many beach
+resorts in Batu Ferringhi and we had booked one such resort.
 
 [KL]: {{site.url}}/blog/kuala-lumpur-trip-2015/
 
-In the evening, we walked through Batu Ferringhi night market. It has
-many vendors selling counterfeit products. At one end of the market
+In the evening, we walked through Batu Ferringhi night market. It is
+infamous for selling counterfeit products. At one end of the market
 place, there are food joints. Kafe Long Beach is a popular place. It is
 a food court with several vendors serving Malay, Japanese, Thai, Indian
 and Chinese cuisines. One must try the waffles at Kafe Long Beach and
@@ -86,13 +86,13 @@ We then headed to George Town, the capital city of Penang. We spent the
 rest of the day at George Town.
 
 We saw the Blue Mansion *(Cheong Fatt Tze Mansion)*, a remarkable
-Chinese mansion that has been restored and converted Bed &
+Chinese mansion that has been restored and converted to Bed &
 Breakfast&ndash;cum&ndash;museum. We passed across a large Chinese
 clanhouse *(Khoo Kongsi)*.
 
 {% include _image.html url="penang-island-trip-2015" images="blue-mansion-george-town:khoo-kongsi-a-large-chinese-clanhouse" caption="Blue Mansion and Chinese clanhouse " %}
 
-We took a Trishaw ride through popular streets of George Town. The
+We took a trishaw ride through popular streets of George Town. The
 streets of George Town are famous for murals and street art. 
 
 {% include _image.html url="penang-island-trip-2015" images="trishaw-ride-in-george-town" caption="Trishaw ride at George Town" %}
@@ -121,7 +121,7 @@ We walked through Little India. It is an ethnic Indian enclave that has
 several Indian shops and restaurants. We could hear Bollywood songs and
 see posters of Bollywood actors at this place.
 
-We then took a Trishaw ride to Fort Cornwallis *(Kota Cornwallis).* At
+We then took a trishaw ride to Fort Cornwallis *(Kota Cornwallis).* At
 the fort, there is a Light House that resembles a ship&apos;s mast and
 it does not serve any navigational purpose now. There is a street called
 the street of cannons which has many cannons lined up.  There is a

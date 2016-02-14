@@ -320,8 +320,10 @@ made of coconut milk. We had the ice cream with minimal toppings. The
 flavour reminded me of eating grated coconut with sugar in my childhood
 days. After spending some time here, we walked to Petaling street of
 China Town. With this our stay at Kuala Lumpur was coming to an end.
-Next morning, we left to Penang with a wish to visit Kuala Lumpur again
-sometime.
+Next morning, [we left to Penang][P] with a wish to visit Kuala Lumpur
+again sometime.
+
+[P]: {{site.url}}/blog/penang-island-trip-2015/ 
 
 <figure id="one-up">
      <a href="{{site.url}}/img/kuala-lumpur-trip-2015/petronas-twin-towers-night.jpg"

@@ -147,6 +147,8 @@ captured.
 
 With this our stay at Penang Island was coming to an end. We headed back
 to Batu Ferringhi pondering over the time spent in Penang. Next morning,
-we left to Langkawi.
+[we left to Langkawi][L].
+
+[L]: {{site.url}}/blog/langkawi-rebak-island-trip-2015/
 
 {% include _image.html url="penang-island-trip-2015" images="3D-art-at-made-in-penang-interactive-museum" caption="Saved by Spidey &#x1f60a; at Made in Penang Interactive Museum, George Town" %}
